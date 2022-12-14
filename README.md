@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonszeto&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonszeto&count_private=true&show_icons=true&theme_gruvbox)
 
 <!--
 **brandonszeto/brandonszeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
