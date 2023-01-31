@@ -2,7 +2,7 @@
 
 I'm interested in the intersection of the fields of computer science and electrical engineering.
 
-** About me **
+**About me**
 - 📘 Computer Engineering student at the [University of California, San Diego](https://ucsd.edu)
 - 💬 You can find me on [LinkedIn](https://www.linkedin.com/in/Brandon-szeto/), my (work in progress) [personal website](https://brandonszeto.com/), or you can [email me](mailto:bszeto@ucsd.edu).
 
