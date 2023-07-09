@@ -4,7 +4,7 @@ I'm interested in the intersection of the fields of computer science and electri
 
 **About me**
 - 📘 Computer Engineering student at the [University of California, San Diego](https://ucsd.edu)
-- 💬 You can find me on [LinkedIn](https://www.linkedin.com/in/Brandon-szeto/), my (work in progress) [personal website](https://brandonszeto.com/), or you can [email me](mailto:bszeto@ucsd.edu).
+- 💬 You can find me on [LinkedIn](https://www.linkedin.com/in/Brandon-szeto/), my [personal website](https://brandonszeto.com/), or you can [email me](mailto:bszeto@ucsd.edu).
 
 ![Brandon's GitHub stats](https://github-readme-stats-brandonszeto.vercel.app/api?username=brandonszeto&count_private=true&show_icons=true&theme=transparent)
 
